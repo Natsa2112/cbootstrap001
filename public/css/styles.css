@@ -1,0 +1,18 @@
+.container{
+    background: red;
+}
+.row div:nth-child(1){
+    background: cyan;
+}
+.row div:nth-child(2){
+    background: orange;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+}
+.btn-outline-*{
+    
+}
